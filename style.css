@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    ;
+}
+
+h1 {
+    color: #0e0a0a;
+    background-color: #eee;
+    margin: 0px;
+    padding: 20px;
+}
+
+.section {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    padding: 20px;
+
+}
+
+.dark {
+    background-color: #333;
+    color: white;
+}
+
+.light {
+    background-color: #eee;
+    color: black;
+}
+
+.gold {
+    background-color: gold;
+    color: black;
+}
